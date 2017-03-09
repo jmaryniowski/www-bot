@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "slack",
+    "bot",
+    "slackbot",
+    "www"
+  ],
+  "name": "www-bot",
+  "description": "Returns title of the webpage",
+  "repository": "https://github.com/jmaryniowski/www-bot.git",
+  "env": {
+    "TOKEN_SLACK": {
+      "description": "Your Slack bot integration token (obtainable at https://my.slack.com/services/new/bot)"
+    }
+  }
+}
